@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "repository": "LeadMagic/gtm-skills",
-  "generated_at": "2026-06-10T04:00:31+00:00",
-  "total_skills": 205,
+  "generated_at": "2026-06-15T18:58:34+00:00",
+  "total_skills": 206,
   "skills": {
     "abm/abm-1-to-1": {
       "path": [
@@ -1632,6 +1632,15 @@
       ],
       "sha256": "2e3b2cf53cd0fcc263adba228a5f7cee0824e642d752b855d24fc6efed2ca6a7",
       "size_bytes": 6856
+    },
+    "sales-plays/post-engager-play": {
+      "path": [
+        "sales-plays",
+        "post-engager-play",
+        "SKILL.md"
+      ],
+      "sha256": "325478ca474816eb26ce1cc4faa840be14cef02a992737ba038b2b2160a95ab1",
+      "size_bytes": 20395
     },
     "sales-plays/product-launch-play": {
       "path": [
